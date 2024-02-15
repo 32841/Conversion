@@ -1,0 +1,18 @@
+.center {
+    font-size: 50px;
+  }
+#para1 {
+    background: red; width: 100%; text-align: center;padding: 5px 0;
+  }
+#para2{
+    background: green; width: 100%; text-align: center;padding: 200px 0;
+}
+#para3{
+    background: blue; width: 50%; float: right; text-align: center;padding: 200px 0;
+}
+#para4{
+    background: red; width: 50%; text-align: center;padding: 200px 0;
+}
+#para5{
+    background: orange; width: 100%; text-align: center;padding: 100px 0;
+}
